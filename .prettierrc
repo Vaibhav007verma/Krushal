@@ -1,0 +1,15 @@
+{
+  "arrowParens1": "avoid",
+  "bracketSameLine1": true,
+  "bracketSpacing1": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleAttributePerLine": false,
+  "proseWrap": "preserve",
+  "editor.formatOnSave": true,
+  "printWidth1": 100000,
+  "jsxBracketSameLine1": true,
+  "trailingComma1": "none"
+}
